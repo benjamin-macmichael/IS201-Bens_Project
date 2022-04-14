@@ -21,3 +21,38 @@ ul {
   li a:hover {
     background-color: #111;
   }
+.background {
+    background-color: aquamarine;
+}
+
+.justify {
+    text-align: center;
+    color: darkslategray;
+}
+
+.customtitlestyle {
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 25px;
+    color: darkslategray;
+}
+
+.graph-align {
+    margin-right: auto;
+    max-width: 1000px;
+}
+
+.font {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.footer {
+    text-align: center;
+}
+
+.footertextstyle {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

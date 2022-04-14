@@ -1,3 +1,19 @@
 body {
     background-color: aqua;
 }
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+p {
+    color: slategray;
+}
+
+.italic {
+    font-style: italic;
+}
